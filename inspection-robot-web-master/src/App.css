@@ -1,0 +1,23 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}
+
+.full-height-container {
+  height: 100vh;
+}
+
+.full-height-row {
+  height: 50%;
+}
+
+.full-height-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
