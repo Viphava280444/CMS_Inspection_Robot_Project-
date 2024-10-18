@@ -1,0 +1,86 @@
+!!! Ensure the robot is located in an area with CERN Wi-Fi coverage before initiating any service, as the robot must use the CERN Wi-Fi network. !!!
+
+ROS2 Environment Setup and Node Execution Guide for control-node
+
+1. Activating the Environment
+	To activate the ROS2 environment, follow these steps:
+
+	source ros2_dashing_py36/bin/activate
+	source ros2/dashing/setup.bash
+
+
+
+2. Running the Serial Control Node
+	Option 1: Running in Foreground with Interaction
+	To run the serial_control_node.py interactively:
+
+		python serial_control_node.py
+
+	Option 2: Running in Background
+	To run the serial_control_node.py in the background:
+
+		nohup python serial_control_node.py &
+
+	Press Enter to regain control of the terminal.
+
+
+
+3. Verifying the Serial Control Node is Running
+	To check if the serial_control_node.py is running:
+
+		ps aux | grep serial_control_node.py
+
+
+
+4. Running the Flask Control Node
+	Option 1: Running in Foreground with Interaction
+	To run the flask_control_node.py interactively:
+
+		python flask_control_node.py
+
+	Option 2: Running in Background
+	To run the flask_control_node.py in the background:
+
+		nohup python flask_control_node.py &
+
+	Press Enter to regain control of the terminal.
+
+
+
+5. Verifying the Flask Control Node is Running
+	To check if the flask_control_node.py is running:
+
+		ps aux | grep flask_control_node.py
+
+
+
+6. Checking Command History
+	To view the command history and outputs of background tasks:
+
+		cat nohup.out
+
+
+
+7. Troubleshooting: Serial Port Errors
+	If you encounter the following error:
+	"could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'"
+	Use the following command to list available serial ports:
+
+		ls /dev/tty*
+
+	Identify the correct serial port and update the serial_control_node.py script with the correct port.
+
+
+
+8. Killing Background Processes
+	If you want to kill a background process, use the following command:
+
+		kill [PID]
+
+	Replace [PID] with the process ID of the running background task.
+
+
+Document Usage
+- Save this document for reference when setting up or troubleshooting ROS2 nodes.
+- Use the commands provided to activate the environment, run nodes, and verify operations.
+- Ensure you have the correct serial port configured to avoid connectivity issues.

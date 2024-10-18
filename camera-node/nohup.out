@@ -1,0 +1,525 @@
+Failed to start device: No available devices
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://194.12.174.59:5004
+[33mPress CTRL+C to quit[0m
+194.12.152.236 - - [26/Aug/2024 16:38:23] code 400, message Bad request version ('j\x04')
+194.12.152.236 - - [26/Aug/2024 16:38:23] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03ýw\x85¾|Pª¼Ð¤I×\x05o@SÊÑ_ýÈt24ê*\x1cúÂ´2í \x9diûnbx@z\x01ÙÐ\x06|\x86eüNe\x9e\x13\x9cà\x1a\x0c\x80¹#\x09j\x04[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:23] code 400, message Bad request version ('T')
+194.12.152.236 - - [26/Aug/2024 16:38:23] code 400, message Bad request version ('Vè\x13O!û')
+194.12.152.236 - - [26/Aug/2024 16:38:23] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03o\x7f½À¹\x85~\x86j¬\x0bVè\x13O!û[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:23] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03âÏöKÀÌ\x16\x9eo46ôéÍß/\x14>S°\x0cÇ\x0f¡h \x0cb|iÏ/ ty\x12}O¾\x10.SÜ\x10-ªÝ­¡Y¦¸á\x0b1\x8e¹ö\x18\x93°\x163\x93¥\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rêê\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01M\x00 ðåÞ¢á¹cøç6û\x03\x19ØX?Ç3F¤Þ\x9a T[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:23] code 400, message Bad request version ('|\\4ô\x84x;êÉùó\x9b\x0fjM\x0f')
+194.12.152.236 - - [26/Aug/2024 16:38:23] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03ýOÑÓvBç8®ò1\x19ýt'8Í~f\x8eÏa]\x92K\x90\x94®g\x9aç\x13 \x8fDm¢\x18\x97\x91êNÕ]Ke½\x9f¥d\x81Ô_gí\x8aBaPæ\x9aU\x85\x80\x8b\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rêê\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00\x1b\x00\x03\x02\x00\x02\x00#\x00\x00Di\x00\x05\x00\x03\x02h2þ\x0d\x00Ú\x00\x00\x01\x00\x01\x8c\x00 ô_¥Ôh4OZÕ\x14¥qX\x0f\x99z\x8aË ó\x198\x7fð?¹ÁÛ 1£A\x00°m!T .õ[­ \x14p\x0fkÉrÿëß·\x8cïêí\x9e\x04¨ëgÎ\x05\x87\x195­®z&\x93ÍR´rB]î\x1fø Ô\x15\x80\x8bôpø²\x9d[®\x8a[ÏËÔ\x95(`µÒWU?\x88é¼\x14jÝ×C\x15\x19Ç\x0dØ<\x85ø\x12\x1bUÄ^àñwIúò\x14\x84Á\x95v'\x0f½º\x91\x83Õ\x0eû¨\x94\x19\x84_ê?\x8bÛCMÙç\x0eü\x1cA{¦Uv´\x0d\x0bà÷±\x0fI\x1fÎÜ EÉ\x95\x92\x01É\x09þ«ë\x1bÉRÿÀÙ­Æ·£YîE6\x10Åv\x06xâ\x003\x04ï\x04íÊÊ\x00\x01\x00c\x99\x04À\\à^µø\x14\x9bÃj\x8bÁ\x02 ¸ ¯À\x07C;¿éÉ\x8c|ìvg\x0ee\x83\x00KB¦¸\x0b\x91\x93\x08\x1e\x15S\x17ÆjRÇ\x00cE·M\x11b¸\x88pS»;)O·1Q\x92\x18Âñ¡C¶µ/ÙÃzW_ñ\x040ö\x85}q&i\x18\x87\x8a¼µd\x91:\x95S\x9a0ÐE1ÌÖ\x1fåx\x99¦\x0cq|¬\x87+4\x11qÛ'4Ù¨\x9f\x8bx\x192< b\x7fíÒ¶fJca',\x19ª3õ´G\x8b5\x82Ã\x15\x88Ûd)P\x01\x82\x19U Râ\x82\x1fwC¡ëgå\x044é\x89¼i§N÷\x83[À'\x01\x18Ù\x8fAÂO \x88YÓ7µBC\x80Ã\x95\x98|G\x97$F\x9f¯º\x19}|7äüÉâÃ\x0e_É%«õ\x9dÝsºP$\x9d^ º©c§k7]\x03\x89H\x06\x1bi;s]\x0bw`!¦\x96¢J´vµUu\x9cÈó\x8b\x01âõ`õ¨d\x8f\x9bhÍS\x0eOÛ\x8fè¬¼y\x18Å\x82\x16:¶(%\x90ñC\x0fÊ\x9c\x06<\x1d«¡9\x09ò.0\x98u\x92q\x98«\x92Ï\x0eêuä¡u\x1aèK\x1bÛSîà\x86\x00ÆË\x97H¸ÿ+8äh_\x02!Íõ[\x16\x91Ã½dØ\x91\x19\x9c¿\x0eÖjà\x82¡µÈi\x15\x03\x14W q\x98\x8bdb¤\x1a®Tf[\x9cVUÜ\x0eTL\x84³\x0bUµy\x95»+,\x1f6Àßc]ÆØ\x10ÌÃ\x96kdt><e\x85Ä\x88êù\x87Uä¡Þ£¯6\x04\x8d%\x90\x9dÃW7¯r\x8f½d#ãJyûS\x0dï\x960\x8f{»\x0f\x08Ð\x813­,\x81²è¶\x95þ\x19EY\x88yP\x04\x8fjã\x1cÛà\x13["v\x9b°7Ó©#i[u¶{¥\x12\x03\x81µ\x10~ì¢\x96åÊ\x83ñ´s\x91ô\x8c=Tb´\x80\x84Ñô,.uh\x08c\x1bâú\x8du%_\x86,\x19\x01¡\x8e+I¬\x86£½p1\x83öb¡ l¿à\x118\x92T\x16ÎU^lSWö÷i\x194$\x11ôÉV\x87¦U¼Y-\x9c\x8aV\x19\x0c\x91Ò\x02\x1ej¸\x16ç\x80¤5G¤t\x853\x1a\x01Âa|±ÚzõÐ5~I<\x05\x9b´¢º\x9dYe0¶\x0c!\x05\x84\x90\x05c\x1d!Q-\x0cU\x1c¹\x05\x87p\x07,\x87d7}Çx\x98\x880\x80Æ¸}£¼Ô\x8a0·\x04\x0d|\\4ô\x84x;êÉùó\x9b\x0fjM\x0f\x85[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:23] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03KPa')
+194.12.152.236 - - [26/Aug/2024 16:38:23] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x00')
+194.12.152.236 - - [26/Aug/2024 16:38:23] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03KPa\x1d\x01:\x12pà(ãÎ\x7f!\x1a\x89\x1aIóêQQh[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:23] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03ÿç¾\x1c\x1aôI<N[\x0b_eøÌ*\x83ögv½\x86Ñ\x10\x8eZ´u\x1e<Ç0 \x04\x90$\x8b7\x9b\x01Bä@\x07\x18ÜÀö\x81ÐR4ªEÕ¡\x8e\x16\x11#g¾b\x0fî\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06r::\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+[18443010B191AC1200] [1.2.4] [1.071] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+Address already in use
+Port 5004 is in use by another program. Either identify and stop that program, or start the server with a different port.
+terminate called without an active exception
+Stack trace (most recent call last) in thread 16522:
+#0    Object "/lib/aarch64-linux-gnu/libc.so.6", at 0x7f8977c598, in raise
+Aborted (Signal sent by tkill() 16451 1000)
+194.12.152.236 - - [26/Aug/2024 16:38:45] code 400, message Bad request syntax ('\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03ô¦Yõiæk³\x02\x02P´¼r')
+194.12.152.236 - - [26/Aug/2024 16:38:45] code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rªª\x00\x00\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00\x12\x00\x00\x003\x04ï\x04í')
+194.12.152.236 - - [26/Aug/2024 16:38:45] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²ÚÚ\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01Di\x00\x05\x00\x03\x02h2\x00')
+194.12.152.236 - - [26/Aug/2024 16:38:45] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03ô¦Yõiæk³\x02\x02P´¼r[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:45] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03/b^ÑKF`\x8c²\x9eb:\x991~î\x949Ñ\x1b\x1aM¦Ââ}\x13§.öË\x9c ¿©g*É4qG§\x06Å\x9e>ÿjkê0Iv³lËî{\x8c\x10\x82è}\x191\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rªª\x00\x00\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00\x12\x00\x00\x003\x04ï\x04í[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:45] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03 cúX\x06ôâAÚQríÄ»\x8bo\x9a¿ÅûUÒ\x10Xì(ÄÒéëíd \x140°×JÃ¨\x90#\x89ù\x89¿`BíÍõ\x14{òßsþ\x87õ$-\x09\x8fag\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²ÚÚ\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01Di\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:45] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+194.12.152.236 - - [26/Aug/2024 16:38:45] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03Ý¼\x94\x0d\x13®¨ßÊü\x0c \x9eîØý1\x98x\x9fdÈË\x8e'ñÃ%S%Fã \x9c"Í\x95ë»\x16¸¬\x9eç\x16\x03¬YG}ëCÂ\x8c2\x07No\x0d°<÷\x94.«\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92jj\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:45] code 400, message Bad request version ('gÝ{ê0qÊ*ä»`Âw\x11\x92Z`j')
+194.12.152.236 - - [26/Aug/2024 16:38:45] code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²êê\x00\x00\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00')
+194.12.152.236 - - [26/Aug/2024 16:38:45] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03^Qú[\x92cÛ\x8e´Nä¥F·¥Ú\x85Ý\x1e7éÐ¼\x99\x88b®÷õj\x09Ð gÝ{ê0qÊ*ä»`Âw\x11\x92Z`j[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:45] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03zÅQZ×ß\x1dÊ\x92OÅÂ\x1aV:2N_¨¶tp¹î+Éô@ea7½ o§#¦\x81Át·éc\x97\x8bu\x08\x14>\x05´Ú­uÉà'õ.Aþ½ÅÛT\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²êê\x00\x00\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:55] code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²')
+194.12.152.236 - - [26/Aug/2024 16:38:55] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03Z\x93\x91ä\x02\x0cµY?¹\x1e\x00¦kw\x1fA4l6]{AÆ\x88C!Ð\x891.s ~¨§Îí6»\x8f©Èsxûâêà\x99n\x80Õ«Qo\x1cÔ?8Ãb\x95t\x82\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:55] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07')
+194.12.152.236 - - [26/Aug/2024 16:38:55] code 400, message Bad request version ('\x97Ç4\x99\x81\x17ÑÒ-\x8f\x97')
+194.12.152.236 - - [26/Aug/2024 16:38:55] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03>\x18C\x05Ñ+\x8aÄm¬§B"ÞZ\x08\x94[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:55] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03ì\x0e´³³s÷\x11zÒf\x1fÖÉÊç\x00ÝT\x0e»\x80\x9fókkâû\x08?\x8e\x87 }u4\x0d\x95:,BP¸xö\\Á\x1f"\x1c\x97Ç4\x99\x81\x17ÑÒ-\x8f\x97[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:55] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rzz\x00\x00\x003\x04ï\x04í')
+194.12.152.236 - - [26/Aug/2024 16:38:55] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03XÓ\x1c\x1eM\x02yH\x03}e\x03\x1aFCZP43EB\x95»ãÚø\x8c'GHåý 0ó\x14¬Æô\x84RKð\x9bèa\x84\x9b°çZ\x91bù\x03+ør$\x02Ã!z-®\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rzz\x00\x00\x003\x04ï\x04í[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:55] code 400, message Bad request syntax ('\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03n\x8b\x17¨\x10#ßB&-v\x03@ûÃ@Y\x87É\x06ûo')
+194.12.152.236 - - [26/Aug/2024 16:38:55] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03n\x8b\x17¨\x10#ßB&-v\x03@ûÃ@Y\x87É\x06ûo[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:38:55] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²êê\x00\x00\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00+\x00\x07\x06JJ\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00')
+194.12.152.236 - - [26/Aug/2024 16:38:55] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03g¤\x9e\x0b>/³\x96|dÂ]c_=ù<×\x96/Î9\x98\x0bÉA\x01\x12,"Úc \x03µG.\x1eæ¼ÿu@¨\x90\x04ÀçpÌ±\x89\x0f\x9421î\x11\x84ÿ@\x9aÄX4\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²êê\x00\x00\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00+\x00\x07\x06JJ\x03\x04\x03\x03\x00-\x00\x02\x01\x01\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00[0m" HTTPStatus.BAD_REQUEST -
+[18443010B191AC1200] [1.2.4] [1.173] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+Address already in use
+Port 5004 is in use by another program. Either identify and stop that program, or start the server with a different port.
+194.12.152.236 - - [26/Aug/2024 16:39:33] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06r\x1a\x1a\x00\x00\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03ÿ\x01\x00\x01\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x003\x04ï\x04íÚÚ\x00\x01\x00c\x99\x04Àf§®)<?lQFì©TzÆUh¹d^Ø\x01Cj}TO')
+194.12.152.236 - - [26/Aug/2024 16:39:33] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03\x11¾g\x02­\x9c\x1f?Ö\x8cÝ\x8a»ùiøU\x9889ñ´\x0fk«j©b\x93U/\x91 \x10(Î\x81\\/0\x8a7Ù\x1e¸ª¯LÐÁ¸ØJ\x0fm\x93ÒkÞ:\x05V`\x02r\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06r\x1a\x1a\x00\x00\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03ÿ\x01\x00\x01\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00\x003\x04ï\x04íÚÚ\x00\x01\x00c\x99\x04Àf§®)<?lQFì©TzÆUh¹d^Ø\x01Cj}TO[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:39:33] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+194.12.152.236 - - [26/Aug/2024 16:39:33] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03J0Læi\x09'íÆ3\x0d£y!ÔÉ\x00ÁÃÑ\x15Öä\x04Ã\x15\x16 %GÚt þ\x82\x84\x85ÁúÌQÜ\x8fBäµ\x96mÜò¼\x8aY\x0b´ä,Vß¦ÑQíj3\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²ZZ\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x0b\x00\x02\x01\x00\x00\x17\x00\x00\x00#\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:39:33] code 400, message Bad request version ("'õÂð`{:WbªaNTL\x7f\x07sm\x13û\x8ez\x91\x194ã¹¦\x9c0:ùÍT9hô")
+194.12.152.236 - - [26/Aug/2024 16:39:33] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03\x0du,\x7f»tm\x14á\x1eþ4\x9e\x81Ý'âgÚD\x97fò#NäbµZ@\x09\x01 Ôf¶fØKÂ\x0dÄå|àÃ_ò¾\x1dÉ\x00)ø¯\x9fm`©U\x8f©Â\x7f®\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²êê\x00\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01»\x00 ¼Ô\x1b\x13`\x18S\x1e"M!ÍAåÚ\x1e\x17¡\x9dBd¡¿+\x0dM\x90\x9b\x13XË{\x00ð^\x8c\x1dÙÌn\x8e\x18©\x09Ï\x89Y[\x8a\x0bl,J\x0b\x1b&\x08Õ¾gft\x99@?\x91¼]zê8f]*\x9b\x9d¤«\x0b£Ð]%\x8fÏõ¸ÓSù\x14W\x85Íb1gð+Bî~\x8fð\x0b\x17Ö&\x1dcÑdL1xT¸\x09@KËD\x1dùVS\x103d\x16\x80`Ï\\÷ç\x94Vù\x12\x05*\x8c§$3¥\x0e&ioÙ±g\x81i.î>Y¤¤\x12±J\x9cÛ$÷Aý.\x83#\x88ªG¶aø¤\x94\x1d\x18\x849q½:\x1cKI5\x97ÿXEø7_\x86QÄpâK2\x80\x8c\x8d:Ýàã\x0eV\x92[´²\x9aÙL«â3\x9fY(BK\x10{\x1dÏ¬ÖdH\x9f37\x9d*ÝO{Q bº£Hö³]\x8d\x9d ·\x1f+\x17Ðñ«Y¦¿îNõ\x9fM\x00\x12\x00\x00\x003\x04ï\x04íÊÊ\x00\x01\x00c\x99\x04À\x87n\x90q×ó\x80Ï\x09Hl\x1b\x06¸\x9fÍz#\x87tZ\x81\x8b ý\x9d\x9fÞWK\x87">á¥¦yUt\x9b\x1e\x8d¥\x0d61,\x0b«4\x18ü\x91u£H¬ê¿ü ·÷©kñãkE\x05£§´q\x1bÑ\x8cÉ´\x01þ\x07«Ä\x94·¹\x12CÉ\x1bÈô\x09q:\x14¹?RiùjÅá$\x17!²?U\x09jF\x09!C\x83xGÚ«\x0d\x84\x80¨ ­\x9eÔHM2\x02û\x95«ÝhÍ}ÁV\x12ª9lXzZ¢qj`\x15kõ\x92«f\x81*\x9cN\x07úvtêeùl~p4=p\x17ZÃÑ\x1aDËy\x82Æ bÉ\x1f'õÂð`{:WbªaNTL\x7f\x07sm\x13û\x8ez\x91\x194ã¹¦\x9c0:ùÍT9hô[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:39:33] code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06r\x9a\x9a\x00\x00ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+194.12.152.236 - - [26/Aug/2024 16:39:33] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x030Ñ{aìr±5\x87iß\x96ÈX«\x90÷9\x1d\x1es±\x92\x9e\x81cqÚ\x7fve6 d\x1c\x13\x00òI<B\x1e(1\x1d\x0bÐRZÑq¸Û\x0c6IVå\x11\x13f\x06¦\x80F\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06r\x9a\x9a\x00\x00ÿ\x01\x00\x01\x00\x00\x1b\x00\x03\x02\x00\x02\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:39:33] code 400, message Bad request syntax ('\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03Ùÿ¿º\x99L^î\\5eË8²¿\x9dä#)ð\x16\x92\x8c\x00\x96è')
+194.12.152.236 - - [26/Aug/2024 16:39:33] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03Ùÿ¿º\x99L^î\\5eË8²¿\x9dä#)ð\x16\x92\x8c\x00\x96è[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 16:39:33] code 400, message Bad request version ('Àfµ\x14ºµ')
+194.12.152.236 - - [26/Aug/2024 16:39:33] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03?<î®gÈQl\x9cz`\x8c\x99V®E&\x98b=ïÊ\x89üÈ\x84Ñø\x8a\x1cD^ \x05\x15\x01ó\x91\x92@Àðe´öI¨E¬@2jJ¡öØÙzS¹\x8f¤³Kß\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92êê\x00\x00\x00#\x00\x00\x00+\x00\x07\x06ºº\x03\x04\x03\x03\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01ÿ\x01\x00\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01K\x00 \x02b\x06TW{\x17ieÿ\x0e\x90MA\x97\x085|°dØ\x09\x02\x8fò\x1aj­ø-`z\x00ÐÝìq@YPSé@ÝÑýK$CX\x10\x1cÝF\x1f2\x94Ç4\x14-\x06o'WâÏ\x84~\x03\x8cR\x96\x91ùÐ6¥Äó±\x98}L#\x12)ÞK\x96my3.ÝÑL¸à¼\x86\x15S»ù\x1bW%¨Eûz§í#"NEÉ\x86Ng\x97êÊ\x1c&\x0bÃ¢}Ï\x12>¢¼J\x03¹QÈEÜ\x1f\x8b\x07\x17\x95ßÔîè&\x89\x07J\x0b\x13Ö\x830úpC¹\x03ô\x85>\x18´á®ÈÃ<Ôï\x02\x13"\x8dWÞ\x81ð[îábBIZuCH)¡\x86'C¾\x80\x87¶Ûk\x05Ï§8?;b\x1cõÜ®¤>\x9b^¹L\\\x03çèáVæå\x0fBô\x9aÕcÐïÎb\x00\x12\x00\x00\x00\x1b\x00\x03\x02\x00\x02Di\x00\x05\x00\x03\x02h2\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x003\x04ï\x04íJJ\x00\x01\x00c\x99\x04À6\x0c+\x88ÝÌBA¾u\x9fäwÃ\x12XMñ\x91ç*RÑ\x8b³U\x9c\x96_F\x96\x1f{Ä\x1bs\x88-æË\x95ú\x1aSYk%\x8c\x8b\x99÷ËÏ\x90¹\x8d¿\x9b¸\x03\x9a®^r*ìqÈr\x96\x01êy\x1eè²%\x87õ\x0cÀfµ\x14ºµ[0m" HTTPStatus.BAD_REQUEST -
+terminate called without an active exception
+Stack trace (most recent call last) in thread 16800:
+#0    Object "/lib/aarch64-linux-gnu/libc.so.6", at 0x7f9d17d598, in raise
+Aborted (Signal sent by tkill() 16743 1000)
+194.12.152.236 - - [26/Aug/2024 16:39:49] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:49] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:39:59] "POST /points HTTP/1.1" 200 -
+[18443010B191AC1200] [1.2.4] [1.252] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+Address already in use
+Port 5004 is in use by another program. Either identify and stop that program, or start the server with a different port.
+terminate called without an active exception
+Stack trace (most recent call last) in thread 19657:
+#0    Object "/lib/aarch64-linux-gnu/libc.so.6", at 0x7f7af0d598, in raise
+Aborted (Signal sent by tkill() 19603 1000)
+194.12.152.236 - - [26/Aug/2024 16:42:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:42:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:00] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:00] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:00] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:00] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:00] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:00] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:10] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:12] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:12] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:12] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:12] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:12] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:12] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:13] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:13] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:13] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:13] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:13] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:13] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:14] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:14] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:14] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:14] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:14] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:43:14] "GET /switch_mode HTTP/1.1" 200 -
+[18443010B191AC1200] [1.2.4] [0.991] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+Address already in use
+Port 5004 is in use by another program. Either identify and stop that program, or start the server with a different port.
+terminate called without an active exception
+Stack trace (most recent call last) in thread 20579:
+#0    Object "/lib/aarch64-linux-gnu/libc.so.6", at 0x7f82cf5598, in raise
+Aborted (Signal sent by tkill() 20523 1000)
+194.12.152.236 - - [26/Aug/2024 16:44:52] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:52] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:54] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:54] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:54] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:54] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:54] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:44:54] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:46:07] "GET /switch_mode HTTP/1.1" 200 -
+[18443010B191AC1200] [1.2.4] [1.028] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://194.12.174.59:5004
+[33mPress CTRL+C to quit[0m
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:49:38] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:08] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:09] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:39] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:50:40] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:51:09] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 16:54:16] "GET /video_combined HTTP/1.1" 200 -
+[18443010B191AC1200] [1.2.4] [1.026] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://194.12.174.59:5004
+[33mPress CTRL+C to quit[0m
+194.12.152.236 - - [26/Aug/2024 17:03:26] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:03:26] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:07:58] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:08:00] code 400, message Bad request version ('Ü¸ï¹ô×\x9e0\x8c1Áâ\xadöÊ>Ý\x8f{=')
+194.12.152.236 - - [26/Aug/2024 17:08:00] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03ÉÛ·÷N\x08rù\x12.X\x8bÑr\x83Í\x0cÉæ\\ýü9UÑ\x04ÿA§\x03y1 \x11\x03§cæ\x95L¶^\x8b\x02\x19cIA@ç(úL\x95\x81á-.úk©W6Ñú\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²zz\x00\x00\x00\x17\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00#\x00\x00\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x00\x1b\x00\x03\x02\x00\x02þ\x0d\x01\x1a\x00\x00\x01\x00\x01r\x00 ×c?Ææ×¡Ü\x9cê±+"Dc\x7f(Ýc=RÁ\x9bÚªìB!\x0bÎC>\x00ðgà 8ð>#OVkä?¤ÏÎoóÆ\x0bx\x1c(wv¯\x1e\x06\x8eù±-Ò%¦\x06u\x0dÜ¸ï¹ô×\x9e0\x8c1Áâ­öÊ>Ý\x8f{=[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:08:00] code 400, message Bad request version ("JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92êê\x00\x00\x003\x04ï\x04íêê\x00\x01\x00c\x99\x04ÀêkR\x8c\x89ts\x97\x00²S'Õf2íö©^\x9d=\x98+GÙÿj\x12à8Zheå")
+194.12.152.236 - - [26/Aug/2024 17:08:00] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03 ¤/× DÊ#%ÔÍI\x19õÑ÷§hÑã3\x8b1]\x1c>¥E@*2\x84 \x09Ó¯Ô¬cÛ3\x9e,ì´\x85ÕÜ\x1bÝÒaøõãí­éA\x8frÎûÅË\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92êê\x00\x00\x003\x04ï\x04íêê\x00\x01\x00c\x99\x04ÀêkR\x8c\x89ts\x97\x00²S'Õf2íö©^\x9d=\x98+GÙÿj\x12à8Zheå[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:08:00] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²**\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00')
+194.12.152.236 - - [26/Aug/2024 17:08:00] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03T¨m\x0fÞ\x19M ì\x14+\x81\x9f\x1a\x0e\x03\x99fo|ZÓ\x05x·\x15Þno\x1e\x9bø /v\x1fñ¾»\x89{\x94BX\x05\x8b\x8a\x93´E\x14^\x0b³ÔL©YÖ¶}­ÖÖs\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²**\x00\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:08:00] code 400, message Bad request version ('µá¤äb@')
+194.12.152.236 - - [26/Aug/2024 17:08:00] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03R]É6Ä\x1e\x182âûçF\x8dÏo+p³lhä÷ÀÒ\x07®3\x88´GJn \x154¹åf)iì£\x8b\x0cÄ?\x8f\x18¢B\x90+\x03\x09ÓÈ,\x9aÜÌä\x817c \x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rúú\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x07\x06úú\x03\x04\x03\x03þ\x0d\x00Ú\x00\x00\x01\x00\x01Ú\x00 &gIpgÌÐãÛ×\x98n\x08Óµ4>\x92J\x1cÜD\x14\x8cÌ\x90ì\x04uVW|\x00°"\x08ìÙ\x89Ùj\x07+Ó]¤*0\x85µá¤äb@[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:08:00] code 400, message Bad request version ("5??«©\x14\x88(?ÊÍI5g\x16°\x9c«MãéaS¶\x158êð\x03I'ö\x00")
+194.12.152.236 - - [26/Aug/2024 17:08:00] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03i&^Tý8 \x11\x1dN\x0d\x92±ËáP"ÂÂe\x13åÒ(r\x1d4\x83\x92\x95ý\x96 5??«©\x14\x88(?ÊÍI5g\x16°\x9c«MãéaS¶\x158êð\x03I'ö\x00 [0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:08:00] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06R\x9a\x9a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+194.12.152.236 - - [26/Aug/2024 17:08:00] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03g­\x86{¥C\x80+ L¨?ï\x8b\x0cäg|ì\x00Éá8ad+\x17¦cè1ß å-?U\\ }\x1cÀ\x1d4ÛÚ\x16'B®ûw6¾'Å¡Á³\x12M\x8b\x10Ôê\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06R\x9a\x9a\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:45] code 400, message Bad request version ('ö')
+194.12.152.236 - - [26/Aug/2024 17:10:45] code 400, message Bad request version ('L\x002²eA\x14Ï')
+194.12.152.236 - - [26/Aug/2024 17:10:45] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03MØ"\x1c\x96%ÃC]ú\x9b\x1dL\x002²eA\x14Ï[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:45] code 400, message Bad request version ('¿\x00\x12\x00\x00\x00')
+194.12.152.236 - - [26/Aug/2024 17:10:45] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03º²\x17eï|¦ÃÌ5aqÖN\x14Ì÷ýpXU ò»´áP\x94Ô/\x0bj ÍÅ\x15hÛ,@üyU'ð\x9bq¿ÕK¹¼z\x04\x93Z\x19íÕ\x18NAeú\x92\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06r\x9a\x9a\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04ízz\x00\x01\x00c\x99\x04À#ôKðD_Ñ&\x09í\x1cíþ\x8añ´\x00\x88\x09JÖ+\x8f\x07Vh?Je\x86á:¹\x96Ç\x99F\x80°éJ?k²\x00\x89Ï)ðlTÈg\x0dö[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:45] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03\\ÑÍYó\x93ÌN\x1f~\x9bÐ\x1bqXÎ\x8aþÇ\x1cÊ\\Û°çÇ¾¬ó#\x90Ô \x05(\x06ë\x9flÌj\x1f\x9f\x05w¦wØ\x0d{ÊØ`\x05>Ý®ooWí\x13¥\x10}\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00þ\x0d\x00ú\x00\x00\x01\x00\x01u\x00 ß#\x08_4t\x85 NÜ\x82eÜy\x9b\x87\x1b\x90e§(¾\x0e\x1eü`F\x9f\x0bE¸Q\x00Ð»\x8aæ¥[%\x9có\x0f¬\x04²\x1aó\x9c¨é\x17¤©d%´êõ\x01Î³Â\x98Ä\x171ÎºÈìé%\x86\x88}\x86)Ù\x1brÍáCWÏA'pØ¨6zWÚÿTjrCÐQ\x92ßë:\x13\x93Û\x81%vî¾6ÿ»î\x90|\x9eÚ2¾\x17\x02~¨ýuU]¤¡mDH\x9aÇQsÿÝ\x85\x82\x82f\x0cbÚ\x10\x1a\x88U\x9d\x16ã\x9a\x8f%Ó®Od#ï\x82\x90\x81ÿÛ±©g{\x1f9\x96\x97\x88È=-²\x190ó÷&#\x90¼Û\x99s\x86g°\x90.F|ã§¾&vä\x9b\x81\x06l]Ï\x1dÀ@\x12\x11Z-ç¶5¥áew}\x11\x98ï\x0f\x03ÆA\x9381O\x1d¿\x00\x12\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:45] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07')
+194.12.152.236 - - [26/Aug/2024 17:10:45] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03à\x15P\x87\x00¸rkM\x91ç1÷3¤Ä[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:45] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rªª\x00\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00')
+194.12.152.236 - - [26/Aug/2024 17:10:45] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03m\x99çZ¥+\x19WÁÛ·tH2VÇôÚÎÁÌ\x99§2Î\x18ì\x18\x7f\x1cÉI ]Ôà\x96\x85¬eìËÀöá\x8b·|íÅÃõ!\x0e`\x8a\x13;¸×\x9d\x0d\x9eÈH\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rªª\x00\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:45] code 400, message Bad request syntax ('\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03ô½\x98\x8dý8Ä+')
+194.12.152.236 - - [26/Aug/2024 17:10:45] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03ô½\x98\x8dý8Ä+[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:10:51] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:17] "OPTIONS /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:17] "[31m[1mGET /video_lane_combined HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:14:17] "[31m[1mGET /video_lane_mask HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:14:17] "[31m[1mGET /video_lane_original HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:14:17] "POST /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:19] code 400, message Bad request version ('8\x8cgùím\\ó1\x05·~\x8c\x00')
+194.12.152.236 - - [26/Aug/2024 17:14:19] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03C¨ÐÎ\x96Ñ/\x841¨Iã[\x91ch·­²Ä\x07\x11\x98íÞ³±r´\x07_è ã¸\x82øÚù\x01ø\x06usï/:\x02\x9b\x80·Ðâ\x10¼\x18Ø0\x0bh\x92\x92-ï{\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06R::\x00\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01þ\x0d\x00º\x00\x00\x01\x00\x01\x10\x00 \x8fô8Ë4uòÞé×Uµ§\x07\x9aJ\x91\x98xÞ®3©Sx\x99Æ\x95\x0e½\x0e\x0d\x00\x90FÑ».\x03ý\x1fsy£ÕÆ\x0d^\x7f` \x91\x90ó \x07n\x80\x97H¨X\x09h0 òL¦0\x81(xa$8OX¥¥Âg4ÅnÀÇ\x8f¿\x86M\x7f:u~\x9f\x92°M@r¤%\x10\x073\x96µ\x86 ÓRX\x88G\x03Å\x81\x92ü1£æi\x0d.\x86\x983¸I+ò\x10_ï5Ál{Í7\x8b¤\x16\x91-ÊX¾´ÓË\x07\x91\x95l\x0e7ûÏ;[(\x858\x8cgùím\\ó1\x05·~\x8c\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:19] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06RZZ\x00\x00\x00')
+194.12.152.236 - - [26/Aug/2024 17:14:19] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03-¹6ªÞ\x9d\x90\x0e\x8b\x9f®³\x0bÒÊ]\x05]âØæÄ~R5~óI´¯ç\x8b Þ_Ô\x1cÄÝ\x9eà¯õ\x1fOþ\x99[úTxé1kñÞ\x8aÛ\x9eï\x09\x8cA?Ê\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06RZZ\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:19] code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06RÚÚ\x00\x00\x00\x12\x00\x00\x00')
+194.12.152.236 - - [26/Aug/2024 17:14:19] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03Ç#T­ó\x85¥\x9aJ\x1d\x84}Ð\x88\x00[«kËjnµSS\x03\x9a\x8e6â?±\x03 Dm"\x00=Ëunr¬^ós/÷\x9fZÑ\x12-¿È@ª\x8cºð;è-\x801\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06RÚÚ\x00\x00\x00\x12\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:20] code 400, message Bad request version ('©Æ6)×\x89\x04;Äç\x1ai®\x89')
+194.12.152.236 - - [26/Aug/2024 17:14:20] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03,ñ×\x1a\x1e\x06ô[Âê\x8ebÂ\x10Ä»îN\x15z\x1fÈ®\x16Ì×\x8c>\x1f\x1aÖs s\x9e­:p\x9a}¼÷/°´èó\x90Üq2±\x96j\x98O\x8c\\^ÎÂÁ A(\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92**\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04íúú\x00\x01\x00c\x99\x04À\x8fDµß³\x82%\x09\x90ðª¶\x08;Y=b\x8d\x95\x83Èð9;\x99¯Ew\x8aÌ0"\x0f¸7T·\x1d\x8c\x19pê\x94}!¢\x82)\x90\x0eâ\x17\x05¼KOèà#Q4\x8cùK¨ âÄ\x1b\\\x1fÀR/3Ä\x0cÐ\x02IuUpf\x92gó\x94x\x98ª[.´8°a\x1f©Æ6)×\x89\x04;Äç\x1ai®\x89[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:20] code 400, message Bad request version ('Úÿ{úü¿\x9cFº0£¡fYIÛ\x18}\x18\x8ch©\x0fó\x00òf\x04Ì\'|"\x00')
+194.12.152.236 - - [26/Aug/2024 17:14:20] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03¾\x86"5åsù(ñ{#oÙ/¥\x86õL©\x13HD¨\x08{[ÆxHð\x1f= Úÿ{úü¿\x9cFº0£¡fYIÛ\x18}\x18\x8ch©\x0fó\x00òf\x04Ì'|"\x00 [0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:20] code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²\x9a\x9a\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x17\x00\x00\x00')
+194.12.152.236 - - [26/Aug/2024 17:14:20] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03©\x8a\x01\x02SFóíO\x0bÏf#z¼\x8d\x81ÊydD\x9aêÑ\x80îÍS=0\x8ad §¹\x9c=¬§Ô^]\x9d¨l\x01¢\x92ù\x03\x1fi\x1cZí\x95÷\x88^\x10ÁO\\\x12q\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²\x9a\x9a\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x12\x00\x00\x00\x17\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:31] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²jj\x00\x00\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x003\x04ï\x04í')
+194.12.152.236 - - [26/Aug/2024 17:14:31] code 400, message Bad request version ('Ð')
+194.12.152.236 - - [26/Aug/2024 17:14:31] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03Ðß@\x07¯\x8abT+[\x03,\x9e_³º×\x82\\$(\x94kùÑnû\x80.\x14°Û \x19b>\x08õ8\x94Ò-©d\x9f0Íå²\x8a\x1a ?àEz\x1dB\x97UT\x8cìgã\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²jj\x00\x00\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x003\x04ï\x04í[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:31] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03Õ\x9cèn,Ö\x9c1T\x1cvÌ·cÍ´\x81.¸{\x99²ázÐx5Ù7Óïi 2\x02w\x16u(°t/üMBÍVv9È<áiBÎÓbaÓVú½Im\x08\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06Rúú\x00\x00ÿ\x01\x00\x01\x00\x00#\x00\x00\x00\x17\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x0b\x00\x02\x01\x00\x00+\x00\x07\x06ºº\x03\x04\x03\x03þ\x0d\x00º\x00\x00\x01\x00\x01¦\x00 &èSÈL\x1dãOÐàô´æ\x1cËo\x1d\x898IJuÚ\x9aÎNS\x892\x03Õr\x00\x90náWZ\x9bãi\x03ârt\x05ûÃLsÓ'\x80û_\x03³>5JH÷_y_I\x1b²ñ¼¥s\x1dû¤>Ñ&±6Ð\x94ÐÛ\x19¦\x81þ\x81þ5¨q9q¸p\\.ÜßÓ\x13)\x00'>\x86ÉsPõý\x875û\x9a¤\x9b\x82Ó\x13\\yòÎCæ\x10ae]æ¥\x9d\x81\x09z*\x8dÇû\x11y)÷\x1cj/ß\x98u\x90g\x03ó\x87nL( a0\x87Ï³Ç\x8ey\x9f"\x8eY,H\x81Ñõ\x00\x1b\x00\x03\x02\x00\x02\x00\x00\x00\x1b\x00\x19\x00\x00\x16cms-eam-jetbot.cern.ch\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x003\x04ï\x04í\x9a\x9a\x00\x01\x00c\x99\x04ÀÖ`\x958\x82É´ÃÊ^rç2÷ù«\x1dC½^\\àá\x1bæ\x9f¥bðv]bþæÉ¼@\x9f¨\x11ZüRMå\x17«ì\x87\x15Ù\x83/":\x8d\x1dæ=l\x06SW¡:\x9c»\x0c\x85´nIE\x09Ð[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:31] code 400, message Bad request version ('ÄÆL')
+194.12.152.236 - - [26/Aug/2024 17:14:31] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03\x03¶Â\x02ÞÆ\x08,\x1b>B9p\x04v\x01^T rÜ\x02x~5qe\x9c!\x1b\x7fÇ ÄÆL[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:31] code 400, message Bad request version ('\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04í\x1a\x1a\x00\x01\x00c\x99\x04À"')
+194.12.152.236 - - [26/Aug/2024 17:14:31] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03\x12½³\x91\x14ðÑ\x00XÙeOà\x9c°\x85\x9aéQ@PQ\x84ÙÈ\x19÷¾¥´\x178 3\x9f[QÛ%N\x13"$I\x95#bËÍ\x8cbÓµ\x1d\x88mL\x96\x85\x05\x8b\x81\x0e\x19\x02\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rJJ\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x1b\x00\x03\x02\x00\x02\x003\x04ï\x04í\x1a\x1a\x00\x01\x00c\x99\x04À"[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:31] code 400, message Bad request version ('p£Ó[°*WYb\x89O\x8b¥FF\x86^p\x90')
+194.12.152.236 - - [26/Aug/2024 17:14:31] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03\x07û×Â\x0f¿\x1a\\Y\x9e\x95IaA\x0e\x8cN\x1c¿\x9b}ÐêCýà¥b»\x91E° +»\x7f\x8eË\x8cé\x81\x15¶Ë"î\x00Dº\x1d\x04\x8f\x93Í\x99\x12\x11ñ¤9Yp\x96<\x1c\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06²êê\x00\x00Di\x00\x05\x00\x03\x02h2\x00\x0b\x00\x02\x01\x00\x00\x12\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00+\x00\x07\x06ªª\x03\x04\x03\x03\x00\x17\x00\x00\x003\x04ï\x04íªª\x00\x01\x00c\x99\x04À\x12Sûí~¾wïç\x04ç\x06\x13¹wþÄ\x88(´\x7f\x9c×û\x13FD¢\x86_!ZD¨\x15\x16\x95À>Ây´Ê:\x1b\x9ar7dJ\x15\x18Wb¼° \x14\x93\x10dDÁÆ;=æÄÚ:\x8aQé`\x93z=£w\x00\x0cx\x12\x8d:\x1dËDÇ\x95RË\x98õ\x9f&ìf\x99E\x04KF\x19\x90ø\x1c&ö\x01ì¦\x99ýõkÌ¶ÇÏu`¢T\x0d\x01II\x1cÕ-Ò\x95¦¢ieÐÂ¬\x1c\x0c]\x1c 5¡q\x94Î³Am,"\x9cP\x80Ju\x18\x14zFtb`;ó}K'Ä\x9b8- p£Ó[°*WYb\x89O\x8b¥FF\x86^p\x90[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:31] code 400, message Bad request version ('Ý½\x11\x7f')
+194.12.152.236 - - [26/Aug/2024 17:14:31] "[35m[1m\x16\x03\x01\x06¿\x01\x00\x06»\x03\x03°}gë5;Ãy¤\x87Èj\x92j2¸ã\x92  \x19fÞß\x8d>í#`äÉ\x07 hÅ\x81×Â\x07&\x96\x91´ÆM8ôÂP\x0dv_X\x07« Ý½\x11\x7f[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:33] code 400, message Bad request version ('|`\x119çNÁ\x83')
+194.12.152.236 - - [26/Aug/2024 17:14:33] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03\\\x93\x10\x1fWh1\x82Æ6ay=#¬3\x0eWø-8D\\ÇùÓ-\x07pÃ\x19\x18 áAO0^%¶-NfØ\x8b!ú8\x16,Çl\x09|`\x119çNÁ\x83[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:33] code 400, message Bad request version ('\x9a<\x9cXT¯¸\x9a[\x9a×{"Ö\x19¡3®³\x0fëüÒ"6\x00°\'P\x93\x9bÕ9ãØ\x92Ãì')
+194.12.152.236 - - [26/Aug/2024 17:14:33] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03þ\x1bix\x07E\x08Í5ß«ÍÛ\x1c\x04\x82¼\x98\x07æêV\x7fM2;\x8aÎ\x93{ûN §zh'\x00\x1eàÊCrb(|\x9eübõ\x9e,¾°ú¢A®+mµ"\x07\x94Ä\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rÚÚ\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x013\x00 \x06jlömØ\x0c\x9a<\x9cXT¯¸\x9a[\x9a×{"Ö\x19¡3®³\x0fëüÒ"6\x00°'P\x93\x9bÕ9ãØ\x92Ãì[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:33] code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rJJ\x00\x00\x00\x12\x00\x00\x003\x04ï\x04íZZ\x00\x01\x00c\x99\x04Àµ«')
+194.12.152.236 - - [26/Aug/2024 17:14:33] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03\x09ÚN\\\x83\x15\x87Lc\x01\x1b\x15Ç\x93'±zyJ¬ã"©°\x1crÅåíàÇx \x99\x02Á\x89¤ô6fG6C\x18A³Ú±t\x8eá·n/°\x1bÈK\\rCPR&\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rJJ\x00\x00\x00\x12\x00\x00\x003\x04ï\x04íZZ\x00\x01\x00c\x99\x04Àµ«[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:33] code 400, message Bad request version ('Å')
+194.12.152.236 - - [26/Aug/2024 17:14:33] "[35m[1m\x16\x03\x01\x06ß\x01\x00\x06Û\x03\x03\x16>ÛðÂ\x96~ø"\x17¿!Ë\x91Æ \x11C\x16\x8fK\x1fÕ\x19p\x01/ÝûsM\x09 \x1f\x90\x1f\x8bY-9"Û\x13¼Ï¤«UÁ&\x9c\x17Çð\x9dA\x97;BÍú\x02|t<\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06rjj\x00\x00ÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x12\x00\x00\x00+\x00\x07\x06**\x03\x04\x03\x03\x00-\x00\x02\x01\x01þ\x0d\x00Ú\x00\x00\x01\x00\x01þ\x00 JÚ]\x1dv¦\x96_zÃð{y\x801Ý\x1a¾¸Ù¯ÏÜ&«8ÜØ\x17K\x01"\x00°\x8fN\x9eéÕ\x82­õN\x1bí/ªZ\x168^¥\x8c¨®ëÚ\x7fu\x987\x99õîÆµP;eêÌ(d\x1cÁ!ûÓÔIHQ}\x01ÛãÏ\x14\x01A\x05\x0fÚ\x1f¸\x147çÁ\x91"5\x04³ë\x12í\x9542.kL$\x0b\x03,g#Û[\x9a­¥í\x14=Öu@óñ'2dá«\x01ÈÍß\x80\x06\x7f\x08÷©\x1e\x1eÅ[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:33] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92')
+194.12.152.236 - - [26/Aug/2024 17:14:33] "[35m[1m\x16\x03\x01\x06ÿ\x01\x00\x06û\x03\x03ºhî±\x99Í1¨Æy0$\x13ñ¬X@þï \x1cI\x06\\cÅ´\x99ð#¸î ó\x92¸òí\x9dÁÔ¹Ã\x13©uMbì:çê>EÝ\x92I\x07r¦\x0cá}ü\x88\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x92[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:33] code 400, message Bad request version ('!uIÿ}È\x12\x940ö')
+194.12.152.236 - - [26/Aug/2024 17:14:33] "[35m[1m\x16\x03\x01\x07\x1f\x01\x00\x07\x1b\x03\x03\x86FR\x1eÚö\x9b¨Òün* \x9f-r\x98?i½\x85\x02Nàø¡±Õäín\x97 äW\x17\x9e#j°e3\x10£\x95\x1d!uIÿ}È\x12\x940ö[0m" HTTPStatus.BAD_REQUEST -
+194.12.152.236 - - [26/Aug/2024 17:14:50] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:50] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /video_lane_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /video_lane_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:51] "GET /video_lane_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:55] "OPTIONS /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:55] "POST /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:58] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:14:59] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:01] "[31m[1mGET /video_lane_combined HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:15:01] "OPTIONS /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:01] "[31m[1mGET /video_lane_mask HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:15:01] "[31m[1mGET /video_lane_original HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:15:01] "POST /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /video_lane_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:05] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:06] "GET /video_lane_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:06] "GET /video_lane_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:52] "OPTIONS /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:15:52] "POST /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:19] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:20] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:20] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:28] "OPTIONS /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:28] "[31m[1mGET /video_lane_combined HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:25:28] "[31m[1mGET /video_lane_original HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:25:28] "[31m[1mGET /video_lane_mask HTTP/1.1[0m" 400 -
+194.12.152.236 - - [26/Aug/2024 17:25:28] "POST /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:31] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:31] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:31] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:32] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:33] "GET /video_lane_original HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:33] "GET /video_lane_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:34] "GET /video_lane_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:36] "OPTIONS /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:36] "POST /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:38] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:38] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:38] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:38] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [26/Aug/2024 17:25:39] "GET /video_original HTTP/1.1" 200 -
+[18443010B191AC1200] [1.2.4] [1.025] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://194.12.174.59:5004
+[33mPress CTRL+C to quit[0m
+194.12.152.236 - - [27/Aug/2024 11:35:44] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:44] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:45] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:45] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 11:35:58] "GET /video_mask HTTP/1.1" 200 -
+[18443010B191AC1200] [1.2.4] [1.119] [ColorCamera(0)] [warning] Unsupported resolution set for detected camera IMX378/214, needs 1080_P / 4_K / 12_MP. Defaulting to 1080_P
+ * Serving Flask app 'flask_camera_node'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://194.12.174.59:5004
+[33mPress CTRL+C to quit[0m
+194.12.152.236 - - [27/Aug/2024 17:17:19] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:19] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:19] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:19] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:19] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:20] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:21] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:22] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:22] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:22] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:22] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:17:22] "GET /video_combined HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "OPTIONS /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /hsv HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /video_original HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "POST /points HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /switch_mode HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /video_mask HTTP/1.1" 200 -
+194.12.152.236 - - [27/Aug/2024 17:20:04] "GET /video_combined HTTP/1.1" 200 -
